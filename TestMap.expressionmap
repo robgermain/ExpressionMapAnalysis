@@ -46,7 +46,7 @@
                <int name="ownership" value="2"/>
             </member>
             <member name="name">
-               <string name="s" value="Slot 1" wide="true"/>
+               <string name="s" value="Master/Elements" wide="true"/>
             </member>
             <int name="color" value="1"/>
          </obj>
