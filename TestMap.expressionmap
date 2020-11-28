@@ -20,6 +20,14 @@
             <string name="description" value="Port-Leg" wide="true"/>
             <int name="group" value="0"/>
          </obj>
+         <obj class="USlotVisuals" ID="2131689136">
+            <int name="displaytype" value="1"/>
+            <int name="articulationtype" value="0"/>
+            <int name="symbol" value="73"/>
+            <string name="text" value="Stac" wide="true"/>
+            <string name="description" value="Stac" wide="true"/>
+            <int name="group" value="0"/>
+         </obj>
       </list>
    </member>
    <member name="slots">
@@ -156,7 +164,7 @@
                   <int name="ownership" value="1"/>
                   <list name="obj" type="obj">
                      <obj class="PSlotNoteChanger" ID="1891867552">
-                        <int name="channel" value="-1"/>
+                        <int name="channel" value="1"/>
                         <float name="velocityFact" value="1"/>
                         <float name="lengthFact" value="1"/>
                         <int name="minVelocity" value="0"/>
@@ -170,7 +178,7 @@
                <member name="midiMessages">
                   <int name="ownership" value="1"/>
                </member>
-               <int name="channel" value="-1"/>
+               <int name="channel" value="1"/>
                <float name="velocityFact" value="1"/>
                <float name="lengthFact" value="1"/>
                <int name="minVelocity" value="0"/>
@@ -182,6 +190,16 @@
             </obj>
             <member name="sv">
                <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="2131686096">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="0"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="Stac" wide="true"/>
+                     <string name="description" value="Stac" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+               </list>
             </member>
             <member name="name">
                <string name="s" value="Stac" wide="true"/>
