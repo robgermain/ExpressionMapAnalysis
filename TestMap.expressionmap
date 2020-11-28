@@ -31,6 +31,13 @@
                </member>
                <member name="midiMessages">
                   <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="POutputEvent" ID="2137374688">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="85"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                  </list>
                </member>
                <int name="channel" value="0"/>
                <float name="velocityFact" value="1"/>
@@ -40,7 +47,7 @@
                <int name="transpose" value="0"/>
                <int name="maxPitch" value="127"/>
                <int name="minPitch" value="0"/>
-               <int name="key" value="-1"/>
+               <int name="key" value="85"/>
             </obj>
             <member name="sv">
                <int name="ownership" value="2"/>
