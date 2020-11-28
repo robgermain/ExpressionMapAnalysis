@@ -18,7 +18,7 @@
                   <int name="ownership" value="1"/>
                   <list name="obj" type="obj">
                      <obj class="PSlotNoteChanger" ID="724786512">
-                        <int name="channel" value="-1"/>
+                        <int name="channel" value="0"/>
                         <float name="velocityFact" value="1"/>
                         <float name="lengthFact" value="1"/>
                         <int name="minVelocity" value="0"/>
@@ -32,7 +32,7 @@
                <member name="midiMessages">
                   <int name="ownership" value="1"/>
                </member>
-               <int name="channel" value="-1"/>
+               <int name="channel" value="0"/>
                <float name="velocityFact" value="1"/>
                <float name="lengthFact" value="1"/>
                <int name="minVelocity" value="0"/>
