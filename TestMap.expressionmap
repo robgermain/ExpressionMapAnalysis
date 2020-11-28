@@ -3,6 +3,16 @@
    <string name="name" value="TestMap" wide="true"/>
    <member name="slotvisuals">
       <int name="ownership" value="1"/>
+      <list name="obj" type="obj">
+         <obj class="USlotVisuals" ID="1902299408">
+            <int name="displaytype" value="1"/>
+            <int name="articulationtype" value="0"/>
+            <int name="symbol" value="73"/>
+            <string name="text" value="Mute Sus" wide="true"/>
+            <string name="description" value="Mute Sus" wide="true"/>
+            <int name="group" value="0"/>
+         </obj>
+      </list>
    </member>
    <member name="slots">
       <int name="ownership" value="1"/>
@@ -51,6 +61,16 @@
             </obj>
             <member name="sv">
                <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="1902298608">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="0"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="Mute Sus" wide="true"/>
+                     <string name="description" value="Mute Sus" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+               </list>
             </member>
             <member name="name">
                <string name="s" value="Master/Elements" wide="true"/>
